@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Dmitry</h1>
 <h3 align="left">A Web Developer and life-long learner always striving to stay abreast of the latest technologies</h3>
 
-- 🔭 I’m currently working on a decentralized exchange [Mesa](mesa.eth.link)
+- 🔭 I’m currently working on a decentralized exchange [Mesa](https://mesa.eth.link)
 
 - 🌱 I’m currently learning **Rust**
 
